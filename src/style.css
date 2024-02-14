@@ -67,7 +67,7 @@ img {
 /* mobile  */
 @media (max-width: 600px) {
 	.title {
-		font-size: 1rem;
+		font-size: 0.8rem;
 	}
 	.game-board {
 		width: 320px;
