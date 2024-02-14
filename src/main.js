@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			if (matchedPairs === gameLength) {
 				const endTime = new Date().getTime();
 				const gameTime = (endTime - startTime) / 1000;
-				alert(`Twój wynik to: ${gameTime.toFixed(2)} sekund`);
+				alert(`Your score is: ${gameTime.toFixed(2)} seconds`);
 				location.reload();
 			}
 		}, 100);
