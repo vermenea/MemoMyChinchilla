@@ -8,9 +8,12 @@ Welcome to MemoMyChinchilla, a fun memory game where you get to match pairs of a
 3. **Winning**: The game is won when all pairs of chinchilla pictures are matched and all cards are face-up.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
 ## Features
 - Featuring my 4 babies: Czesiu, Leoś, Jurij, Stasiu
