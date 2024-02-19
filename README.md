@@ -1,4 +1,4 @@
-# 🐭MemoMyChinchilla🐭
+# 🐭MemoMyChinchilla
 
 Welcome to MemoMyChinchilla, a fun memory game where you get to match pairs of adorable chinchilla pictures! This game features four unique chinchilla images that will surely melt your heart.
 
