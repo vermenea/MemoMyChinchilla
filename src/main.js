@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+// document.addEventListener('DOMContentLoaded', function () {
 	const cards = document.querySelectorAll('.memo-card');
 
 	const startTime = new Date().getTime();
@@ -76,4 +76,4 @@ document.addEventListener('DOMContentLoaded', function () {
 			clickedCards = 0;
 		}
 	}
-});
+// });
