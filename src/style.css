@@ -10,7 +10,7 @@ body {
   justify-content: space-evenly;
   flex-direction: column;
   align-items: center;
-  background: url('/images/watercolour_purple_pastel_background.jpg') no-repeat
+  background: url('./public/images/watercolour_purple_pastel_background.jpg') no-repeat
     center center fixed;
   background-size: cover;
 }
